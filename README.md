@@ -4,9 +4,9 @@ This is a Ruby on rails 5 Actioncable back-end example chat. You can have a look
 
 This project was bootstrapped with Ruby on Rails 5 and ActionCable. It is not tested in production environment, it is just an example app. So, use it under your responsibility.
 
-Demo Video example: https://youtu.be/JIFLc5XtfeU
+Full Demo Video example: https://youtu.be/JIFLc5XtfeU
 
-
+![Alt Text](chat.gif)
 
 Checkout this repo, install dependencies, then start rails server with the following:
 
